@@ -12,7 +12,7 @@ import { ListComponent } from './heroes/list/list.component';
     AppComponent,
     CounterComponent,
     HeroComponent,
-    ListComponent
+    // ListComponent
   ],
   imports: [
     BrowserModule,
